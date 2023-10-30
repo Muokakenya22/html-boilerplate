@@ -1,0 +1,21 @@
+Last login: Mon Oct 16 12:08:48 on ttys003
+marie@Muokas-MacBook-Pro ~ % git clone git@github.com:Muokakenya22/odin-links-and-images.git
+fatal: destination path 'odin-links-and-images' already exists and is not an empty directory.
+marie@Muokas-MacBook-Pro ~ % git clone git@github.com:Muokakenya22/odin-links-and-images.git
+fatal: destination path 'odin-links-and-images' already exists and is not an empty directory.
+marie@Muokas-MacBook-Pro ~ % cd odin-links-and-images
+marie@Muokas-MacBook-Pro odin-links-and-images % touch index.html
+marie@Muokas-MacBook-Pro odin-links-and-images % ls
+index.html
+marie@Muokas-MacBook-Pro odin-links-and-images %     
+<h1>Homepage</h1>
+<a>click me</a>
+
+
+
+
+
+
+
+
+
